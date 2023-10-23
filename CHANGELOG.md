@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.1.3](https://github.com/mpetrunic/fastify-sse-v2/compare/v3.1.2...v3.1.3) (2023-10-23)
+
+
+### Miscellaneous
+
+* bump get-func-name from 2.0.0 to 2.0.2 ([#78](https://github.com/mpetrunic/fastify-sse-v2/issues/78)) ([3495dbc](https://github.com/mpetrunic/fastify-sse-v2/commit/3495dbc96222a9fb991ef0b57183676e8426d752))
+
 ## [3.1.2](https://github.com/mpetrunic/fastify-sse-v2/compare/v3.1.1...v3.1.2) (2023-07-25)
 
 
